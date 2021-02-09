@@ -1,0 +1,108 @@
+.container1 img{
+			margin: 0px;
+			padding: 0px;
+  
+		
+		}
+.loginbox img {
+    box-shadow: 25px 0px 2px 0px brown;
+}
+.loginbox1 img {
+    box-shadow: 25px 0px 3px -1px brown;
+}
+.avatar{
+	width:160px;
+	height: 100px;
+	border-radius:50%;
+	/*position: absolute;*/
+	margin-top: 30px;
+    margin-bottom:30px;
+    line-height:12 !important;
+	/*left:calc(50% - 50px);*/
+	padding-left: 60px;
+	/*margin-left: -390px;*/
+
+}
+
+.avatar1{
+	width:100px;
+	height: 100px;
+	border-radius:50%;
+	margin-top: 30px;
+    margin-bottom:30px;
+}
+
+
+.box1{
+	width:13px;
+	height:10px;
+	background:#800040;
+	color:#fff;
+	/* position: absolute; */
+	/* transform: translate(-50%,-50%); */
+	box-sizing: border-box;
+	padding: 27px 72px;
+    /* margin-top: 166px; */
+     margin-left: 38px; 
+    border-radius: 20px;
+}
+
+.box2{
+	width:13px;
+	height:10px;
+	background:#800040;
+	color:#fff;
+	/* position: absolute; */
+	/* transform: translate(-50%,-50%); */
+	box-sizing: border-box;
+	padding: 20px 50px;
+    /* margin-top: 166px; */
+     margin-left: 46%; 
+    border-radius: 20px;
+
+
+}
+.productText{
+	color:#fff;
+	font-size: 16px;
+    text-align:center;
+	margin-top: -20px;
+    margin-left: -60px;
+    width: 125px;
+}
+.productText1{
+	color:#fff !important;
+	font-size: 18px;
+    text-align:center;
+	margin-top: -10px;
+    margin-left: -60px;
+    width: 125px;
+}
+
+.ProductDiscount {
+    color:#fff;
+	font-size: 16px;
+	margin-top: -10px;
+    margin-left: -60px;
+    text-align:center;
+    width: 125px;
+}
+
+.col-lg-2 {
+    max-width:none !important;
+}
+.mb-2 {
+color:#5bc0de  !important;
+}
+.login-form .form-control {
+background:none !important;
+}
+.a:focus, a:hover {
+  text-decoration: none;
+  outline: 0;
+  color: #fb5c42;
+ 
+}
+.colorblack {
+color:black !important;
+}
